@@ -1,0 +1,7 @@
+#nivel
+1
+#radio posX posY espera direccion rebotes
+25 39 120 10 DERECHA 0 false
+25 39 90 12 DERECHA 0 false
+25 120 39 14 ABAJO 0 false
+25 90 39 16 ABAJO 0 false
